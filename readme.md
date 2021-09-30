@@ -30,11 +30,11 @@
 
 ## 4. 시스템 flow-chart
 
-![image-20210930174211456](C:\Users\comet\AppData\Roaming\Typora\typora-user-images\image-20210930174211456.png)
+![StarRating_flow](https://user-images.githubusercontent.com/82886055/135419095-ba9618e6-9ad4-43df-b6b3-74e3b173e501.png)
 
 ## 5. 테이블 구조
 
-![image-20210930174153901](C:\Users\comet\AppData\Roaming\Typora\typora-user-images\image-20210930174153901.png)
+![StarRating_ERD](https://user-images.githubusercontent.com/82886055/135418887-000631f1-d569-4043-98ef-e9c19179bc77.png)
 
 ## 6. 시스템 시연
 
